@@ -1,0 +1,359 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+   <head>
+      <!-- basic -->
+      <meta charset="utf-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <!-- mobile metas -->
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <meta name="viewport" content="initial-scale=1, maximum-scale=1">
+      <!-- site metas -->
+      <title>BYRONES WEB-D</title>
+      <meta name="keywords" content="">
+      <meta name="description" content="">
+      <meta name="author" content="">
+      <!-- bootstrap css -->
+      <link rel="stylesheet" href="css/bootstrap.min.css">
+      <!-- style css -->
+      <link rel="stylesheet" href="css/style.css">
+      <!-- Responsive-->
+      <link rel="stylesheet" href="css/responsive.css">
+      <!-- fevicon -->
+      <link rel="icon" href="images/fevicon.png" type="image/gif" />
+      <!-- Scrollbar Custom CSS -->
+      <link rel="stylesheet" href="css/jquery.mCustomScrollbar.min.css">
+      <!-- Tweaks for older IEs-->
+      <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css">
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.css" media="screen">
+      <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script><![endif]-->
+   </head>
+   <!-- body -->
+   <body class="main-layout">
+      <!-- loader  -->
+      <div class="loader_bg">
+         <div class="loader"><img src="images/loading.gif" alt="#" /></div>
+      </div>
+      <!-- end loader -->
+      <!-- header -->
+      <header>
+         <!-- header inner -->
+         <div class="header">
+            <div class="container">
+               <div class="row">
+                  <div class="col-xl-6 col-lg-6 col-md-6logo_section">
+                     <div class="full">
+                        <div class="center-desk">
+                           <div class="text-bg">
+                           </h1>luther inc</h1>
+                           </div>                        </div>
+                     </div>
+                  </div>
+                  <div class="col-xl-9 col-lg-9 col-md-9 col-sm-9">
+                     <nav class="navigation navbar navbar-expand-md navbar-dark ">
+                        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExample04" aria-controls="navbarsExample04" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                        </button>
+                        <div class="collapse navbar-collapse" id="navbarsExample04">
+                           <ul class="navbar-nav mr-auto">
+                               <li class="login_btn" class="nav-item" href="#">
+                             Login
+                             </li>
+                                <li class="nav-item">
+                              <a class="nav-link" href="#">Sing Up</a>
+                             </li>
+                           </ul>
+                        </div>
+                     </nav>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </header>
+      <!-- end header inner -->
+      <!-- end header -->
+      <!-- banner -->
+      <section class="banner_main">
+         <div class="container-fluid">
+            <div class="row d_flex">
+               <div class="col-xl-6 col-lg-6 col-md-6 ">
+                   <div class="text-bg">
+                     <h1>Dani's Agri-Venture</h1>
+                     <span>For Expert Farming Advice, <br>
+ Market For Farm Produce,<br></span>
+                     <strong>Provides Contact For Farm Recouces</strong>
+                     
+                  </div>
+               </div>
+               <div class="col-xl-6 col-lg-6 col-md-6 padding_lert2">
+                 
+                  <div class="text-img">
+                     <figure><img src="images/pc2.jpg"alt="#"/></figure>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </section>
+      <!-- end banner -->
+        <!-- about -->
+      <div class="about">
+         <div class="container">
+            <div class="row">
+               <div class="col-md-10 offset-md-1">
+                  <div class="titlepage">
+                     <span>We Also Provide </span>
+                     <h2>READY MARKET FOR FARM PRODUCE</h2>
+                     <p>We realised that there is need for farmers to link up with markets that are relaible and offer good prices for their produce more so in KENYA, this platform gives you as a farmer the opportunity to decide who to sell your products to and at what prices.</p>
+                  </div>
+               </div>
+            </div>
+
+                     <div class="row">
+                        <div class="ccol-md-10 offset-md-1">
+                           <div class="about_box">
+                              <figure><img src="images/about.jpg" alt="#"/></figure>
+                             
+                           </div>
+                        </div>
+                       
+                       
+                     </div>
+                    
+                  </div>
+               </div>
+           
+         <!-- end about -->
+      <!-- classified -->
+      <div class="classified">
+         <div class="container">
+            <div class="row">
+               <div class="col-md-12">
+                  <div class="titlepage">
+                  <span>Why Choose Us </span>
+                     <h2>WE OFFER A VARIETY OF EXEMPLARY SERVICES</h2>
+                     <p>Our services have been positively id'd to be cost effecient and at the same time very effecive. They are also a variety of services to choose from ranging from Farm Inputs,Feeds,Animal Breeds e.t.c We also offer payment in installments and there are very many options of payments for our services ranging from M-pesa to Pay-pal. Choose us to help you realse your full potentials.</p>
+                  </div>
+               </div>
+            </div>
+      
+        
+           
+                     <div class="row">
+                        <div class="col-xl-4 col-lg-4 col-md-4 margin_bott">
+                           <div class="classified_box">
+                              <figure><img src="images/work_img1.jpg" alt="#"/></figure>
+                              <h3>BEST CHIKEN FEEDS & BREEDS  </h3>
+                              <p>Our Company offers the best chiken breed that consits of various varieties. We also have feeds to help you increase your poultry produce.</p>
+                           </div>
+                        </div>
+                        <div class="col-xl-4 col-lg-4 col-md-4 margin_bott">
+                           <div class="classified_box">
+                              <figure><img src="images/work_img2.jpg" alt="#"/></figure>
+                              <h3>MORDENISED FARM EQUIPMENTS</h3>
+                              <p>We provide state of the art equippments to reduce manpower needed while increasing the effeciency. We also hire out our equimpent at pocket friendly costs.</p>
+                           </div>
+                        </div>
+                        <div class="col-xl-4 col-lg-4 col-md-4">
+                           <div class="classified_box">
+                              <figure><img src="images/work_img3.jpg" alt="#"/></figure>
+                              <h3>DAIRY COW PRODUCTS  </h3>
+                              <p>We help our dairy farmers to help maintain their production and on how to improove them.We also sell their products at affordable prices.</p>
+                           </div>
+                        </div>
+                     </div>
+                    
+                  </div>
+               </div>
+           
+         <!-- end classified -->
+ 
+
+
+ <!-- contact -->
+      <div id="contact" class="contact">
+         <div class="container">
+            <div class="row d_flex">
+               <div class="col-md-6">
+                  <div class="contact_box">
+                     <div class="titlepage">
+                        <span>Talk to us </span>
+                        <h2>Tell us what you need</h2>
+                     </div>   
+                     <p>Through us talking closely to our cients, we have made sure we offer services to their satisfaction and at the comfort of their homes. We also would love to follow up on the service made and gauge if there's any progress or develpment thererin. Also join our community to help you get disccounted offers and updates of new services. </p>
+                  </div>
+               </div>
+               <div class="col-md-6">
+                  <form id="contact" class="main_form">
+                     <div class="row">
+                        <div class="col-md-12 ">
+                           <input class="contactus" placeholder="Name" type="type" name="Name"> 
+                        </div>
+                        <div class="col-md-12">
+                           <input class="contactus" placeholder="Phone Number" type="type" name="Phone Number"> 
+                        </div>
+                        <div class="col-md-12">
+                           <input class="contactus" placeholder="Email" type="type" name="Email">                          
+                        </div>
+                        <div class="col-md-12">
+                           <textarea class="textarea" placeholder="Message" type="type" Message="Name">Message </textarea>
+                        </div>
+                        <div class="col-sm-12">
+                           <button class="send_btn">Send</button>
+                        </div>
+                     </div>
+                  </form>
+               </div>
+            </div>
+         </div>
+      </div>
+      <!-- end contact -->
+
+
+      <!-- testimonial -->
+      <div class="testimonial">
+         <div class="container">
+            <div class="row">
+               <div class="col-md-12">
+                  <div class="titlepage">
+                     <h2>FEEDBACK FROM CLIENTS</h2>
+                     <p>Some of our clients have enjoyed our services and here is what they have to say.</p>
+                  </div>
+               </div>
+            </div>
+            <div class="row">
+               <div class="col-md-10 offset-md-1">
+                  <div id="myCarousel" class="carousel slide testimonial_Carousel " data-ride="carousel">
+                     <ol class="carousel-indicators">
+                        <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+                        <li data-target="#myCarousel" data-slide-to="1"></li>
+                        <li data-target="#myCarousel" data-slide-to="2"></li>
+                     </ol>
+                     <div class="carousel-inner">
+                        <div class="carousel-item active">
+                           <div class="container">
+                              <div class="carousel-caption ">
+                                 <div class="row">
+                                    <div class="col-xl-4 col-lg-4 col-md-12 margin_boot">
+                                       <div class="test_box1">
+                                          <figure><img src="images/FAM2.jpg" alt="#"/></figure>
+                                          <h4> TOM ABOK-KISII </h4>
+                                       </div>
+                                    </div>
+                                    <div class="col-xl-8 col-lg-8 col-md-12">
+                                       <div class="test_box">
+                                          <i><img src="images/te1.png" alt="#"/></i>
+                                          <p>I have recived free farming advice from experts on the seeds to use for my plantation...I have recorded good results on my farm and I'm surely looking foward to selling my produce to this e-market platform. My experience has been nice and I want to thank DANI'S AGRI-VENTURES for coming up with such an enterprise.Mungu na Awabariki.</p>
+                                          <i class="flot_right"><img src="images/te2.png" alt="#"/></i>
+                                       </div>
+                                    </div>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                        <div class="carousel-item">
+                           <div class="container">
+                              <div class="carousel-caption">
+                                 <div class="row">
+                                    <div class="col-xl-4 col-lg-4 col-md-12 margin_boot">
+                                       <div class="test_box1">
+                                          <figure><img src="images/FAM1.jpg" alt="#"/></figure>
+                                          <h4> ALFAYO OTUOMA- KANO </h4>
+                                       </div>
+                                    </div>
+                                    <div class="col-xl-8 col-lg-8 col-md-12">
+                                       <div class="test_box">
+                                          <i><img src="images/te1.png" alt="#"/></i>
+                                          <p>Initially I would use a lot of money to hire farm workers but since I was introduced to Dani's they have provided faring equippments and many services at pocket friendly prices meaning I get to maximise my profits, other than that they have given the expert advice on the type of food that I should be growing in my region. I honestly will grow my famring buisiness. </p>
+                                          <i class="flot_right"><img src="images/te2.png" alt="#"/></i>
+                                       </div>
+                                    </div>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                        <div class="carousel-item">
+                           <div class="container">
+                              <div class="carousel-caption">
+                                 <div class="row">
+                                    <div class="col-xl-4 col-lg-4 col-md-12 margin_boot">
+                                       <div class="test_box1">
+                                          <figure><img src="images/FAM3.jpg" alt="#"/></figure>
+                                          <h4> AGULU CHIMBLI- KARACHUONYO</h4>
+                                       </div>
+                                    </div>
+                                    <div class="col-xl-8 col-lg-8 col-md-12">
+                                       <div class="test_box">
+                                          <i><img src="images/te1.png" alt="#"/></i>
+                                          <p>I have always bought my stock from the markets which meant the qualiy of the product I would get was not relaible , and I also could not be sure of the market prices and their flactuatons. I was introduced to DANI'S by a business friend and ever since, I've made a lot of profits since I choose my goods and when I want the delivered to me and thats not even the best part, I get to choose what I pay and in instalments that are convinient to me....Nimefurahia. </p>
+                                          <i class="flot_right"><img src="images/te2.png" alt="#"/></i>
+                                       </div>
+                                    </div>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                     <a class="carousel-control-prev" href="#myCarousel" role="button" data-slide="prev">
+                     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                     <span class="sr-only">Previous</span>
+                     </a>
+                     <a class="carousel-control-next" href="#myCarousel" role="button" data-slide="next">
+                     <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                     <span class="sr-only">Next</span>
+                     </a>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+      <!-- end testimonial -->
+     
+      <!--  footer -->
+      <footer >
+         <div class="footer">
+            <div class="container">
+               <div class="row">
+                  <div class="col-md-8 offset-md-2">
+                     <div class="cont">
+                        <h3>DANI'S AGRI-VENTURES<br>
+                           A KENYAN FARMER'S POCKET KNIFE 
+                        </h3>
+                        <p>Get us on social media ; <br>
+                           INSTAGRAM- @Lurther_jnr<br>
+                           TWITTER- HUKO HATUJAFIKA,<br>
+                           FACEBOOK- BYRONE LUTHER</p>
+                        <a class="read_more" href="#">Contact us through-<br>
+                           0115083175 <br>
+                           BYRONE LUTHER</a>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div class="copyright">
+               <div class="container">
+                  <div class="row">
+                     <div class="col-md-12">
+               
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </footer>
+      <!-- end footer -->
+      <!-- Javascript files-->
+      <script src="js/jquery.min.js"></script>
+      <script src="js/popper.min.js"></script>
+      <script src="js/bootstrap.bundle.min.js"></script>
+      <script src="js/jquery-3.0.0.min.js"></script>
+      <script src="js/plugin.js"></script>
+      <!-- sidebar -->
+      <script src="js/jquery.mCustomScrollbar.concat.min.js"></script>
+      <script src="js/custom.js"></script>
+      <script src="https:cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.js"></script>
+   </body>
+</html>
+
